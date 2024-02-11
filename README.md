@@ -2,7 +2,7 @@
 
 'Youssenger' is a simplification of Meta's *Messenger*. Developed using **Next.js, React, Axios and Pusher**, Youssenger is a full-stack web application that features real-time chat functionality. Using **NextAuth.js**, Youssenger also employs user authentication and authorisation, with proper security measures like hashing passwords. All chat messages (including images), group chats, profile pictures are saved onto a server-side **MongoDB** database using Axios and updated in real time on the client-side using Pusher.
 
-Feel free to check out a deployed demo [here](youssenger.vercel.app)!
+Feel free to check out a deployed demo [here](https://youssenger.vercel.app)!
 
 # Getting Started 👣
 
