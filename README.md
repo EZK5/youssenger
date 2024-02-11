@@ -17,7 +17,7 @@ Feel free to check out a deployed demo [here](https://youssenger.vercel.app)!
 
 # Learn More 🧠
 
-**Interested in the creator of this personal project?** Visit [this link](eric-kang.vercel.app) to learn more about me.
+**Interested in the creator of this personal project?** Visit [this link](https://eric-kang.vercel.app) to learn more about me.
 
 # Disclaimers 🚫
 This project was not aimed to make profit or steal intellectual property from Meta's *Messenger* in any way. It was simply a personal side project, undertaken to develop personal skills and learn new things.
