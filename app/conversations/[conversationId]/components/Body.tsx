@@ -56,7 +56,7 @@ const Body: React.FC<BodyProps> = ({
 
         return () => {
             pusherClient.unsubscribe(conversationId);
-            pusherClient.unbind('messages.new', messageHandler);
+            pusherClient.unbind('messages:new', messageHandler);
             pusherClient.unbind('message:update', updatedMessageHandler);
         }
     }, [conversationId]);
